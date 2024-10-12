@@ -34,7 +34,6 @@ res1() {
     unzip menu.zip
     chmod +x menu
     chmod +x addhost
-    chmod +x menu
     chmod +x m-sshws
     chmod +x trialssh
     chmod +x delssh
