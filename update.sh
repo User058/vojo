@@ -34,50 +34,50 @@ res1() {
     unzip menu.zip
     chmod +x menu
     chmod +x addhost
-chmod +x menu
-chmod +x m-sshws
-chmod +x trialssh
-chmod +x delssh
-chmod +x member
-chmod +x delexp
-chmod +x cekssh
-chmod +x restart
-chmod +x speedtest
-chmod +x info
-chmod +x about
-chmod +x autokill
-chmod +x tendang
-chmod +x ceklim
-chmod +x ram
-chmod +x renewssh
-chmod +x clearlog
-chmod +x changeport
-chmod +x portovpn
-chmod +x portwg
-chmod +x porttrojan
-chmod +x portsstp
-chmod +x portsquid
-chmod +x portvlm
-chmod +x wbmn
-chmod +x xp
-chmod +x swapkvm
-chmod +x addvmess
-chmod +x addvless
-chmod +x addtrojan
-chmod +x delv2ray
-chmod +x delvless
-chmod +x deltrojan
-chmod +x cekvmess
-chmod +x cekvless
-chmod +x cektrojan
-chmod +x renewvmess
-chmod +x renewvless
-chmod +x renewtrojan
-chmod +x certv2ray
-chmod +x addtrgo
-chmod +x deltrgo
-chmod +x renewtrgo
-chmod +x cektrgo
+    chmod +x menu
+    chmod +x m-sshws
+    chmod +x trialssh
+    chmod +x delssh
+    chmod +x member
+    chmod +x delexp
+    chmod +x cekssh
+    chmod +x restart
+    chmod +x speedtest
+    chmod +x info
+    chmod +x about
+    chmod +x autokill
+    chmod +x tendang
+    chmod +x ceklim
+    chmod +x ram
+    chmod +x renewssh
+    chmod +x clearlog
+    chmod +x changeport
+    chmod +x portovpn
+    chmod +x portwg
+    chmod +x porttrojan
+    chmod +x portsstp
+    chmod +x portsquid
+    chmod +x portvlm
+    chmod +x wbmn
+    chmod +x xp
+    chmod +x swapkvm
+    chmod +x addvmess
+    chmod +x addvless
+    chmod +x addtrojan
+    chmod +x delv2ray
+    chmod +x delvless
+    chmod +x deltrojan
+    chmod +x cekvmess
+    chmod +x cekvless
+    chmod +x cektrojan
+    chmod +x renewvmess
+    chmod +x renewvless
+    chmod +x renewtrojan
+    chmod +x certv2ray
+    chmod +x addtrgo
+    chmod +x deltrgo
+    chmod +x renewtrgo
+    chmod +x cektrgo
     mv menu /usr/local/sbin
     rm -rf menu
     rm -rf menu.zip
